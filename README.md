@@ -3,7 +3,9 @@ I'm Front-end developer and my skills are;
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,jquery,tailwind,materialui,bootstrap,sass,less)](https://skillicons.dev)
 
-- 🌱 I’m currently learning [![Learning](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+- 🌱 I’m currently learning
+
+[![Learning](https://skillicons.dev/icons?i=nodejs,ai)](https://skillicons.dev)
   
 <!--
 **idilTugba/idilTugba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
