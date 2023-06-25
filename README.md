@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Front-end developer and my skills are;
+I'm working as a front-end developer for now and continuing to improve my skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,jquery,tailwind,materialui,bootstrap,sass,less)](https://skillicons.dev)
 
-- 🌱 I’m currently learning
+🌱 I’m currently learning
 
 [![Learning](https://skillicons.dev/icons?i=nodejs,ai)](https://skillicons.dev)
   
