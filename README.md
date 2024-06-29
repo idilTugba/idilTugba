@@ -5,7 +5,7 @@ I'm working as a front-end developer for now and continuing to improve my skills
 
 🌱 I’m currently learning
 
-[![Learning](https://skillicons.dev/icons?i=nodejs,ai)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=nodejs,ai)]
   
 <!--
 **idilTugba/idilTugba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
